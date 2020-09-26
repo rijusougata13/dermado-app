@@ -1,8 +1,9 @@
 # dermado-app
 
-## Requirements: 
+### Requirements: 
 Python 3.8.x - [Download here](https://www.python.org/ftp/python/3.8.5/python-3.8.5.exe)
 
+### Instructions:
 1. Clone the repository to your local machine. 
 ```bash
 git clone https://github.com/DeagleOfficial/dermado-app.git
