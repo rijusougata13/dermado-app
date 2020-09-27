@@ -8,17 +8,17 @@ class Foot extends React.Component {
         <div className="row" id="footer-content">
           <a
             className="col-md-12 col-sm-12 col-lg-4"
-            href="mailto:supratikchakraborty1@gmail.com"
+            href=""
           >
             E-MAIL
           </a>
           <a
             className="col-md-12 col-sm-12 col-lg-4"
-            href="https://github.com/DeagleOfficial/dermado-app.git"
+            href=""
           >
             GITHUB
           </a>
-          <a className="col-md-12 col-sm-12 col-lg-4" href="tel:+918584832114">
+          <a className="col-md-12 col-sm-12 col-lg-4" href="">
             CONTACT
           </a>
         </div>
